@@ -120,7 +120,7 @@ Main.xml------------------------------------------------------------------------
 
 
 
-display.xml/show.xml----------------------------------------------------------------------------
+display.xml----------------------------------------------------------------------------
 
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -236,7 +236,7 @@ private CheckBox cb1,cb2;
 
 
 
-Display.java/Show.java--------------------------------------------------------------------------
+DisplayActivity.java--------------------------------------------------------------------------
 
 import android.os.Bundle;
 import android.widget.TextView;
